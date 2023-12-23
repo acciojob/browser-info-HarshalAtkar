@@ -1,1 +1,6 @@
 /*  your css code here. If applicable */
+#browser-info{
+	height:30px;
+	weight:100%;
+	background-color:black;
+}
